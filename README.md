@@ -1,5 +1,5 @@
 # Dart: Up and Running Research and Development
-Research and Development based on ideas of "Dart: Up And Running" guide
+Research and Development based on ideas of "Dart: Up And Running" book.
 
 Using Dart 2 programming language functionality, SDK usability, best practices and recommendation these code examples demonstrate how to work with Dart.
 
